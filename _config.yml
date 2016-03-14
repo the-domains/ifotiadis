@@ -1,0 +1,28 @@
+name: ifotiadis
+favicon: null
+layout_spectrum: 0.3269711025059223
+typography_spectrum: 0.39578158454969525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7727850410155952
+  lightness: 0.35701985750347376
+  saturation: 0.10089097102172673
+  rhythmicContrast: 0.8898880330380052
+purpose: []
